@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "683433981949",
+    "firebase_url": "https://project-7552598116626549954.firebaseio.com",
+    "project_id": "project-7552598116626549954",
+    "storage_bucket": "project-7552598116626549954.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683433981949:android:b3eb5bb9962b426c",
+        "android_client_info": {
+          "package_name": "com.frandog.a20180116_02_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683433981949-7c06jst43lbb232p26stpf20a7larune.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frandog.a20180116_02_new",
+            "certificate_hash": "122bc5b373c125e72537b05cef5bf2fb6874b930"
+          }
+        },
+        {
+          "client_id": "683433981949-estv57s2028b4e8dbkskaiva7p09ner2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-nql7nRttAc9lO-U3sT9Ah41dWuQwcs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683433981949-estv57s2028b4e8dbkskaiva7p09ner2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
